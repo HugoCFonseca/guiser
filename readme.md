@@ -1,4 +1,4 @@
-projeto-seriado
+Guiser  
 ===============
 
-Just a simple project
+Just a simple web project
